@@ -3,7 +3,8 @@ EcoHouse
 EcoHouse é um site dedicado à promoção e comercialização de tecnologias verdes e sustentáveis. O site foi criado para o CheckPoint 04 da matéria de Front-End da FIAP.
 
 Integrantes
-
+Equipe:
+Thamiris Almeida - RM559155 Werbeth Nunes - RM559067
 
 Link do GitPages
 
